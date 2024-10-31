@@ -1,4 +1,3 @@
-# Projeto Exchange de Criptomoedas
 
 </head>
 <body>

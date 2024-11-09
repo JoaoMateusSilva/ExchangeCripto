@@ -23,8 +23,8 @@
     
   <h2>Autores</h2>
     <ul>
-        <li>Heron de Souza</li>
-        <li>João Mateus E B Da Silva</li>
+        <li>Heron de Souza RA: 22.223.009-6</li>
+        <li>João Mateus E B Da Silva RA: 22.223.013-8</li>
     </ul>
 </body>
 </html>

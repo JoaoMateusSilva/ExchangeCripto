@@ -46,6 +46,6 @@ public class Investidorc {
     }
     public String consultarExtrato(String cpf) {
 
-        return "Extrato:\nCPF: 123.456.789-01\nCompra de Bitcoin: 0.1 BTC\nVenda de Ripple: 50 XRP";
+        return "Extrato:\nCPF: 123.456.789-01\n Deposito R$ 1350.00 \nCompra de Bitcoin: 0.1 BTC\n Compra de Ethereum : 2.0 ETH\n Compra de Ripple:200 XRP\nVenda de Ripple: 50 XRP";
     }
 }
